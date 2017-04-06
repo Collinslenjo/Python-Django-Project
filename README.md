@@ -1,8 +1,8 @@
-###Getting started with python and Django
+### Getting started with python and Django
 
 Clone the repository.
 
-####Running the app
+#### Running the app
 
 Install all the requirements in your environment.
 
