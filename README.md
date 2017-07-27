@@ -1,8 +1,8 @@
-### Getting started with python and Django
+### Getting started with Django
 
-Clone the repository.
+```git clone``` the repository and ```cd``` into the app directory.
 
-#### Running the app
+#### Run the app
 
 Install all the requirements in your environment.
 
@@ -13,3 +13,4 @@ After that, run the app using Django manage.py.
 `python manage.py runserver`
 
 Access the homepage on `http://localhost:8000`
+:fire:
