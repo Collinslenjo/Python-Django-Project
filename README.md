@@ -4,7 +4,7 @@
 
 #### Run the app
 
-create the enviroment with ```virtualenv <yourEnviromentName>```
+create the enviroment with ```virtualenv <yourEnviromentName>```  
 Install all the requirements in your environment.
 
 `pip install -r requirements.txt`
